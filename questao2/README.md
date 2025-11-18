@@ -1,0 +1,1 @@
+usei principalmente strategy pra fazer a troca dinamica em temp de exec. e um factory pra escolher o modelo

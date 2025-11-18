@@ -1,0 +1,20 @@
+2025-11-18 19:51:07 [EVENT] [T3] Thread T3 iniciou processamento
+2025-11-18 19:51:07 [EVENT] [T2] Thread T2 iniciou processamento
+2025-11-18 19:51:07 [EVENT] [T1] Thread T1 iniciou processamento
+2025-11-18 19:51:07 [AUDIT] [T1] Thread T1 acessou recurso sensível
+2025-11-18 19:51:07 [AUDIT] [T2] Thread T2 acessou recurso sensível
+2025-11-18 19:51:07 [ERROR] [T1] Thread T1 encontrou um erro simulado
+2025-11-18 19:51:07 [AUDIT] [T3] Thread T3 acessou recurso sensível
+2025-11-18 19:51:07 [ERROR] [T2] Thread T2 encontrou um erro simulado
+2025-11-18 19:51:07 [ERROR] [T3] Thread T3 encontrou um erro simulado
+2025-11-18 19:51:07 [EVENT] [main] Processamento finalizado em todas as threads
+2025-11-18 19:51:22 [EVENT] [T3] Thread T3 iniciou processamento
+2025-11-18 19:51:22 [EVENT] [T2] Thread T2 iniciou processamento
+2025-11-18 19:51:22 [EVENT] [T1] Thread T1 iniciou processamento
+2025-11-18 19:51:22 [AUDIT] [T2] Thread T2 acessou recurso sensível
+2025-11-18 19:51:22 [AUDIT] [T1] Thread T1 acessou recurso sensível
+2025-11-18 19:51:22 [AUDIT] [T3] Thread T3 acessou recurso sensível
+2025-11-18 19:51:22 [ERROR] [T1] Thread T1 encontrou um erro simulado
+2025-11-18 19:51:22 [ERROR] [T2] Thread T2 encontrou um erro simulado
+2025-11-18 19:51:22 [ERROR] [T3] Thread T3 encontrou um erro simulado
+2025-11-18 19:51:22 [EVENT] [main] Processamento finalizado em todas as threads
